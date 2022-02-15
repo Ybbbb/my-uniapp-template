@@ -1,19 +1,4 @@
-# my-uniapp
+# uniapp typescript template
 
-## Project setup
-```
-yarn install
-```
+基于vue2，使用vue class component + ts 构建。
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
