@@ -1,0 +1,4 @@
+dist/*.js
+src/assets
+babel.config.js
+postcss.config.js
