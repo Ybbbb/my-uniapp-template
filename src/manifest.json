@@ -53,7 +53,7 @@
   },
   "mp-weixin": {
     /* 小程序特有相关 */ "usingComponents": true,
-    "appid": "wx61156643c1334aba",
+    "appid": "",
     "setting": {
       "urlCheck": true
     }
